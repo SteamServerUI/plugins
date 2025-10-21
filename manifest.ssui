@@ -7,5 +7,5 @@
     "logo_url": "https://some-cdn.com/stationeers-logo.png",
     "supported_os": "linux",
     "min_version": "7.0.0"
-  },
+  }
 ]
