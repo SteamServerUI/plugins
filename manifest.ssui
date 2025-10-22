@@ -1,6 +1,6 @@
 [
   {
-    "name": "StationeersBackupManagerLinux",
+    "name": "StationeersBackupManager",
     "filename": "StationeersBackupManager.x86_64",
     "version": "1.0",
     "background_url": "https://steamserverui.github.io/plugins/images/StationeersBackupManagerPlugin.webp",
