@@ -1,9 +1,9 @@
 [
   {
     "name": "StationeersBackupManager",
-    "windows_executable_url": "https://github.com/SteamServerUI/StationeersBackupManager/releases/download/v1.2.0/StationeersBackupManager.exe",
-    "linux_executable_url": "https://github.com/SteamServerUI/StationeersBackupManager/releases/download/v1.2.0/StationeersBackupManager.x86_64",
-    "version": "1.2.0",
+    "windows_executable_url": "https://github.com/SteamServerUI/StationeersBackupManager/releases/download/v1.2.1/StationeersBackupManager.exe",
+    "linux_executable_url": "https://github.com/SteamServerUI/StationeersBackupManager/releases/download/v1.2.1/StationeersBackupManager.x86_64",
+    "version": "1.2.1",
     "background_url": "https://steamserverui.github.io/plugins/images/StationeersBackupManagerPlugin.webp",
     "logo_url": "https://some-cdn.com/stationeers-logo.png",
     "supported_os": "all",
